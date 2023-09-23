@@ -1,10 +1,10 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://Noz155.github.io"
-baseurl: "/prism"
+url: "https://noz155.github.io"
+baseurl: "/Prism"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
